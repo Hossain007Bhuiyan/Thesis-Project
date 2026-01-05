@@ -31,7 +31,7 @@ The following figures show examples of clustered ferry trajectories obtained fro
 different algorithms and similarity measures.
 
 ### Example: TimeSeriesKMeans (DTW)
-![TimeSeriesKMeans Clustering](BalticSea-LNG-Ferry-Paths/clusters/mystar/hierarchical_clusters/tal_hel_all_together.png/tal_hel_all_together.png)
+![TimeSeriesKMeans Clustering](BalticSea-LNG-Ferry-Paths/clusters/mystar/hierarchical_clusters/tal_hel_all_together.png)
 
 ### Example: Hierarchical Clustering (Fréchet Distance)
 ![Hierarchical Clustering](results/hierarchical_clustering/mystar_helsinki_tallinn.png)
