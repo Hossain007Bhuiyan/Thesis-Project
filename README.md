@@ -48,7 +48,7 @@ different algorithms and similarity measures.
 ![Route Comparison](results/comparisons/route_comparison.png)
 
 > 📌 **Note:**  
-> Result images are generated from AIS trajectory data and stored inside the `results/` directory,
+> Result images are generated from AIS trajectory data and stored inside the `clusters/` directory,
 > organized by vessel and clustering method.
 
 ---
