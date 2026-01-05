@@ -1,6 +1,6 @@
 # LNG Ferry Path Classification in the Baltic Sea
 
-This repository contains the implementation and experiments from the master’s thesis  
+This repository contains the implementation and experiments from the master’s [thesis](https://su.diva-portal.org/smash/record.jsf?aq2=%5B%5B%5D%5D&c=67&af=%5B%5D&searchType=LIST_LATEST&sortOrder2=title_sort_asc&language=en&pid=diva2%3A1955718&aq=%5B%5B%5D%5D&sf=all&aqe=%5B%5D&sortOrder=author_sort_asc&onlyFullText=false&noOfRows=50&dswid=-2760)
 **“Path Classification of Liquefied Natural Gas-Powered Ferries in the Baltic Sea”**.
 
 ## Overview
