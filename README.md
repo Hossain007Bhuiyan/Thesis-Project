@@ -56,6 +56,7 @@ The number in parentheses indicates the **optimal number of clusters (k)** used 
 | Tallinn | Helsinki | 0.22 (2) | 0.29 (2) |
 
 
+
 **Silhouette Scores and Optimal Clusters for the Peter Pan**
 | From | To | Coordinate Similarity (k) | Path Characteristics (k) |
 |---|---|---:|---:|
@@ -67,6 +68,8 @@ The number in parentheses indicates the **optimal number of clusters (k)** used 
 | Trelleborg | Rostock | 0.0 (2) | 0.08 (2) |
 | Trelleborg | Swinoujscie | 0.92 (2) | 0.88 (2) |
 | Trelleborg | Travemunde | 0.95 (2) | 0.52 (2) |
+
+
 
 **Silhouette Scores and Optimal Clusters for the Nils Holgersson**
 | From | To | Coordinate Similarity (k) | Path Characteristics (k) |
@@ -80,12 +83,16 @@ The number in parentheses indicates the **optimal number of clusters (k)** used 
 | Trelleborg | Swinoujscie | 0.88 (2) | 0.87 (2) |
 | Trelleborg | Travemunde | 0.16 (2) | 0.05 (2) |
 
+
+
 **Silhouette Scores and Optimal Clusters for the Viking Grace**
 | From | To | Coordinate Similarity (k) | Path Characteristics (k) |
 |---|---|---:|---:|
 | Mariehamn | Turku | 0.0 (2) | 0.22 (2) |
 | Stockholm | Mariehamn | 0.01 (2) | 0.03 (2) |
 | Turku | Stockholm | -0.01 (2) | 0.94 (2) |
+
+
 
 ### Silhouette Scores and Optimal Clusters for the Viking Glory
 | From | To | Coordinate Similarity (k) | Path Characteristics (k) |
