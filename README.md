@@ -43,6 +43,17 @@ different algorithms and similarity measures.
 ### Example: Hierarchical Clustering (Fréchet Distance)
 ![Hierarchical Clustering](BalticSea-LNG-Ferry-Paths/clusters/mystar/hierarchical_clusters/tal_hel_all_together.png)
 
+### Silhouette scores and optimal number of clusters
+
+To assess clustering quality, we report the **silhouette score** for each route direction.  
+Scores are shown for two feature groups: **Coordinate Similarity** and **Path Characteristics**.  
+The number in parentheses indicates the **optimal number of clusters (k)** used for that result.
+| From | To | Coordinate Similarity (k) | Path Characteristics (k) |
+|---|---|---:|---:|
+| Helsinki | Tallinn | 0.34 (2) | 0.11 (2) |
+| Tallinn | Helsinki | 0.22 (2) | 0.29 (2) |
+
+
 ### Route Comparison
 ![Route Comparison](results/comparisons/route_comparison.png)
 
