@@ -13,18 +13,6 @@ over a **six-month** period to identify common navigation paths and route variat
 
 The main objective is to evaluate how different **time-series clustering algorithms**
 can group ferry trajectories into meaningful route clusters.
-
-Cluster quality is evaluated using the **silhouette score** (see **Results** for method-wise scores).
-### Clustering quality (Silhouette score)
-
-Silhouette scores are reported for two feature groups—**Coordinate Similarity** and **Path Characteristics**.
-The value in parentheses indicates the **optimal number of clusters (k)** selected for that route direction.
-
-| From | To | Coordinate Similarity (k) | Path Characteristics (k) |
-|---|---|---:|---:|
-| :contentReference[oaicite:0]{index=0} | :contentReference[oaicite:1]{index=1} | 0.34 (2) | 0.11 (2) |
-| :contentReference[oaicite:2]{index=2} | :contentReference[oaicite:3]{index=3} | 0.22 (2) | 0.29 (2) |
-
 ---
 
 ## Methods Used
