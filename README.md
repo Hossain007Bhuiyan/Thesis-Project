@@ -48,10 +48,51 @@ different algorithms and similarity measures.
 To assess clustering quality, we report the **silhouette score** for each route direction.  
 Scores are shown for two feature groups: **Coordinate Similarity** and **Path Characteristics**.  
 The number in parentheses indicates the **optimal number of clusters (k)** used for that result.
+
+**Silhouette Scores and Optimal Clusters for the MyStar**
 | From | To | Coordinate Similarity (k) | Path Characteristics (k) |
 |---|---|---:|---:|
 | Helsinki | Tallinn | 0.34 (2) | 0.11 (2) |
 | Tallinn | Helsinki | 0.22 (2) | 0.29 (2) |
+
+
+**Silhouette Scores and Optimal Clusters for the Peter Pan**
+| From | To | Coordinate Similarity (k) | Path Characteristics (k) |
+|---|---|---:|---:|
+| Rostock | Travemunde | 0.12 (2) | 0.16 (3) |
+| Rostock | Trelleborg | 0.025 (2) | 0.34 (2) |
+| Swinoujscie | Trelleborg | 0.15 (2) | 0.02 (2) |
+| Travemunde | Rostock | 0.26 (2) | 0.23 (2) |
+| Travemunde | Trelleborg | 0.96 (2) | 0.74 (2) |
+| Trelleborg | Rostock | 0.0 (2) | 0.08 (2) |
+| Trelleborg | Swinoujscie | 0.92 (2) | 0.88 (2) |
+| Trelleborg | Travemunde | 0.95 (2) | 0.52 (2) |
+
+**Silhouette Scores and Optimal Clusters for the Nils Holgersson**
+| From | To | Coordinate Similarity (k) | Path Characteristics (k) |
+|---|---|---:|---:|
+| Rostock | Travemunde | 0.07 (2) | 0.14 (3) |
+| Rostock | Trelleborg | 0.0 (2) | 0.19 (2) |
+| Swinoujscie | Trelleborg | 0.03 (2) | 0.16 (2) |
+| Travemunde | Rostock | 0.20 (2) | 0.34 (2) |
+| Travemunde | Trelleborg | 0.08 (2) | 0.55 (5) |
+| Trelleborg | Rostock | 0.06 (2) | 0.6 (2) |
+| Trelleborg | Swinoujscie | 0.88 (2) | 0.87 (2) |
+| Trelleborg | Travemunde | 0.16 (2) | 0.05 (2) |
+
+**Silhouette Scores and Optimal Clusters for the Viking Grace**
+| From | To | Coordinate Similarity (k) | Path Characteristics (k) |
+|---|---|---:|---:|
+| Mariehamn | Turku | 0.0 (2) | 0.22 (2) |
+| Stockholm | Mariehamn | 0.01 (2) | 0.03 (2) |
+| Turku | Stockholm | -0.01 (2) | 0.94 (2) |
+
+### Silhouette Scores and Optimal Clusters for the Viking Glory
+| From | To | Coordinate Similarity (k) | Path Characteristics (k) |
+|---|---|---:|---:|
+| Mariehamn | Stockholm | 0.03 (2) | 0.02 (2) |
+| Stockholm | Turku | 0.0 (2) | 0.08 (2) |
+| Turku | Mariehamn | 0.0 (2) | 0.29 (2) |
 
 
 ### Route Comparison
